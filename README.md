@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Bhavesh Sahu, a B.Com graduate in Computer Applications from DAVV University, currently pursuing MBA in Business Analytics at Medicaps University, Indore. I'm passionate about turning raw data into clear insights that drive smarter business decisions. I work with Excel, Power BI, Python, and SQL to build dashboards, analyze trends, and solve real-world business problems. Currently focused on Data Analytics, Business Analysis, and HR Analytics. I'm actively looking for internships, freelance projects, and part-time collaborations. Feel free to explore my projects or reach out at bhavesh@bhaveshsahu.com
+I'm Bhavesh Sahu, a B.Com graduate in Computer Applications from DAVV University, currently pursuing MBA in Business Analytics at Medicaps University, Indore. I'm passionate about turning raw data into clear insights that drive smarter business decisions. I work with Excel, Power BI, Python, and SQL to build dashboards, analyze trends, and solve real-world business problems. Currently focused on Data Analytics, Business Analysis, and HR Analytics. I'm actively looking for internships, freelance projects, and part-time collaborations. Feel free to explore my projects at bhaveshsahu.com or reach out at bhavesh@bhaveshsahu.com
 
 
 ## 🌐 Socials:
