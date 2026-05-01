@@ -1,41 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Sahu</h1>
-<h3 align="center">Data & Business Analyst | MBA in Business Analytics</h3>
+# 💫 About Me:
+I'm Bhavesh Sahu, a B.Com graduate in Computer Applications from DAVV University, currently pursuing MBA in Business Analytics at Medicaps University, Indore. I'm passionate about turning raw data into clear insights that drive smarter business decisions. I work with Excel, Power BI, Python, and SQL to build dashboards, analyze trends, and solve real-world business problems. Currently focused on Data Analytics, Business Analysis, and HR Analytics. I'm actively looking for internships, freelance projects, and part-time collaborations. Feel free to explore my projects or reach out at bhavesh@bhaveshsahu.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshanalytics" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshanalytics" alt="bhaveshanalytics" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhaveshanalytics) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaveshanalytics) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bhaveshanalytics) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhaveshanalyst) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavesh@bhaveshsahu.com) 
 
-- 🔭 I’m currently working on **Data Analytics & HR Analytics Projects using Excel, Power BI and Python**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhaveshanalytics&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhaveshanalytics&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhaveshanalytics&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **MBA in Business Analytics — Data Analytics, Statistical Methods & Business Intelligence**
-
-- 👯 I’m looking to collaborate on **Data Analytics, Business Analysis, HR Analytics & Dashboard Projects**
-
-- 🤝 I’m looking for help with **Advanced Python for Data Analysis and Machine Learning Basics**
-
-- 👨‍💻 All of my projects are available at [https://bhaveshsahu.com/portfolio/](https://bhaveshsahu.com/portfolio/)
-
-- 📝 I regularly write articles on [https://bhaveshsahu.com/blog/](https://bhaveshsahu.com/blog/)
-
-- 💬 Ask me about **Data Analytics, Business Analysis, HR Analytics, Excel, Power BI**
-
-- 📫 How to reach me **bhavesh@bhaveshsahu.com**
-
-- 📄 Know about my experiences [https://bhaveshsahu.com/](https://bhaveshsahu.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhaveshanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaveshanalyst" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhaveshanalytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaveshanalytics" height="30" width="40" /></a>
-<a href="https://instagram.com/bhaveshanalytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaveshanalytics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bhaveshanalytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhaveshanalytics" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshanalytics&show_icons=true&locale=en&layout=compact" alt="bhaveshanalytics" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshanalytics&show_icons=true&locale=en" alt="bhaveshanalytics" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshanalytics&" alt="bhaveshanalytics" /></p>
+---
+[![](https://komarev.com/ghpvc/?username=bhaveshanalytics&icon=0&color=0)](https://visitcount.itsvg.in)
